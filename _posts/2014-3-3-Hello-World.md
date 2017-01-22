@@ -1,9 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Week 1!
 ---
+1. What did you do this past week?
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+2. What's in your way?
+
+3. What will you do next week?our repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
