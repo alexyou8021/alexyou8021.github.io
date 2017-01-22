@@ -14,4 +14,4 @@ I enjoy playing sports in my free time, participating at competitive levels in u
 
 [alexyou8021@gmail.com](mailto:alexyou8021@gmail.com)
 
-https://www.linkedin.com/in/alexandertyou
+[https://www.linkedin.com/in/alexandertyou](https://www.linkedin.com/in/alexandertyou)
