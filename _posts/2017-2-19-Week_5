@@ -1,0 +1,22 @@
+---
+layout: post
+title: Week 5
+---
+# What did you do this past week?
+
+This last week, I finished the Collatz project, by implementing a lazy cache and an eager cache. First I set up a metacache where I precalculated the maximum values of each interval of size 10000. So that the maxmimum amount of values needed to calculate is 19999, when an interval is not fully enveloped. After that, I implemented a recursive method to solve for individual Collatz numbers in the lower and upper intervals while filling another cache, so that each calculation I make would only be made one time. 
+
+# What's in your way?
+
+At this time in the course, I am still very inexperienced in Python, so while I am able to get by on the programs, searching and learning as I go, I am not able go through class, specifically the quizzes without a struggle. 
+
+# What will you do next week?
+
+To be more prepared for class next week, I will do the readings well in advance, while also looking ahead at in-course material of python specifications, so I may be able to understand and comprehend the quizzes and lectures better the second time I am introduced to them.
+
+# Class Experience
+
+In class this week, we talked about python and its different interpretation of tuples and lists. This is really helpful in understanding the overall scheme of python. Also working in class to write our own implementations of functions, like Reduce() or Factorial(). It really improves my coding confidence and problem recognition on the fly. Thinking about and writing code in such a time crunch really reveals what you know and what algorithms and language aspects that you are comfortable with. 
+
+# Tip Of The Week
+There is a Google Chrome extension called StayFocusd that helps you stay focused in moments when you really need to, such as study sesions. Anytime you need to stay off sites like Facebook, Reddit, or Twitter, you can use StayFocusd to block any use from those websites for a specified number of hours. Use to fight your own willpower and addictions for any moment of weakness, so that you may ace you classes and nail your desired grades.
