@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am currently a student in his sophomore year at the University of Texas at Austin. I am pursuing a Bachelor of Science degree with a major in Computer Science and a minor in Business Foundations. 
+I am currently a student in his sophomore year at the University of Texas at Austin. I am pursuing a Bachelor of Science degree with a major in Computer Science and a minor in Business Foundations. I am currently looking for summer software engineering internship opportunities for 2017 and 2018.
 
 ### More Information
 
-I enjoy playing sports in my free time, participating at competitive levels in ultimate frisbee, football, basketball, and track. I also enjoy socializing with friends, watching movies, and exploring nature. 
+I enjoy playing sports in my free time, participating at competitive levels in ultimate frisbee, football, basketball, and track. I also enjoy socializing with friends, watching movies, and exploring cities. 
 
 ### Contact me
 
