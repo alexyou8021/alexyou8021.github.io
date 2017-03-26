@@ -10,8 +10,7 @@ I am currently a student in his sophomore year at the University of Texas at Aus
 
 I enjoy playing sports in my free time, participating at competitive levels in ultimate frisbee, football, basketball, and track. I also enjoy socializing with friends, watching movies, and exploring cities.
 
-### [Projects](alexyou8021.github.io/projects/)
-
+[My Projects](/projects/)
 
 ### Contact me
 
