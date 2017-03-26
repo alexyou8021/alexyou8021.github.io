@@ -6,7 +6,7 @@ permalink: /projects/
 
 Here are some of my relevant projects:
 
-### [Game Database Website](https://github.com/mminkoff1/cs373-idb)
+### [Game Database Website](https://github.com/mminkoff1/cs373-idb) - [GameLookup](http://gamelookup.me/)
 
 Created a full-stack website that displays collected information about video games;
 Uses HTML, CSS, JavaScript, and AngularJS to create a dynamic frontend;
@@ -16,7 +16,7 @@ The database uses SQL to collect and transfer the information in the backend;
 
 Implemented a PintOS operating system with mutual exclusion of locks, semaphores, and monitors, and a scheduler that's prioritized fairness and throughput.
 
-### [Type Runner](https://github.com/alexyou8021/TypeRunner)
+### [Type Runner](https://github.com/alexyou8021/TypeRunner) - [Trailer](https://twitter.com/Youster83/status/807409743643938816)
 
 Temple Run styled physics game that allows players to practice typing, by correlating typing speed to dodging obstacles and raising scores.
 
@@ -28,7 +28,7 @@ Created an object oriented code language parser and interpreter to translate giv
 
 Implemented a the PowerPC instruction set in a multi-cycle processor that read the machine code and produced the desired outcome from the resulting instructions 
 
-### [Android Tetris Game](https://github.com/alexyou8021/MobileTetris)
+### [Android Tetris Game](https://github.com/alexyou8021/MobileTetris) - [Building Blocks](https://play.google.com/store/apps/details?id=alexyou.tetrisplus)
 
 Created a remake of the game Tetris on the Android Google Play store and using object oriented programming to organize the individual pieces and shapes to allow for different properties to be inherited and derived
 
